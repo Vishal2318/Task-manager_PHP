@@ -1,0 +1,15 @@
+List (group of Tasks)
+tbl-List
+
+list-id(PK)
+list-name
+list-description
+
+list Tasks
+tbl-Tasks
+task-id
+task-name
+task-description
+list-id
+priority
+deadline
